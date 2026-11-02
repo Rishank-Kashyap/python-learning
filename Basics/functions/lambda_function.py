@@ -1,4 +1,4 @@
-num=int(input("Enter a number:"))
+num = int(input("Enter a number:"))
 
 cube = lambda x: x**3
 

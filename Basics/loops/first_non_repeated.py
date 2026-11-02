@@ -1,6 +1,6 @@
-string=input("Enter a string:")
+string = input("Enter a string:")
 
 for char in string:
-    if string.count(char)==1:
+    if string.count(char) == 1:
         print(char)
         break

@@ -1,5 +1,5 @@
-string=input("Enter a String:")
-reverse_string=""
+string = input("Enter a String:")
+reverse_string = ""
 for char in string:
-    reverse_string=char+reverse_string
+    reverse_string = char + reverse_string
 print(reverse_string)
